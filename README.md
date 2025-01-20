@@ -33,4 +33,4 @@ Installing the virtual environment and the required packages in order to run thi
     pip install -r requirements.txt
 
 
-Note: You must also create an OPENAI Account with an OPENAI API-Key and a minimum of 5 Dollars as Deposit. Store the key in the .env file
+Note: You must also create an OPENAI Account with an OPENAI API-Key and a minimum of 5 Dollars as Deposit. Store the key in the .env file. This repo does not include the .env file since you have to create your own with the OPENAI API-Key (acquired here: https://platform.openai.com/settings/organization/api-keys )
